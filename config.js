@@ -1,0 +1,9 @@
+module.exports = {
+  token: 'token',
+  guildId: '1128631519787888714',// '1111563670229631017'],
+  voiceEditChannelId: '1129169785385652337', //'1113221413361430568'],
+  voiceCreateChannelId: '1129169439502381248', //'1113221932414926898'],
+  voiceCategoryId: '1128631521641771069', //'1113366831189725236'],
+  voiceStatusId: '1127626538301538394',
+  dataSozdania: ''
+};
